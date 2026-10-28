@@ -10,3 +10,4 @@
 2. **P2 — Student Info Card:** Uses function overloading to display student information.
 3. **P3 — Array Tools:** Uses overloaded functions and default arguments to process arrays.
 4. **P4 — Ride Fare Calculator:** Calculates ride fares using function overloading and saves ride receipts to a file.
+All programs demonstrate default arguments and function overloading in C++.
